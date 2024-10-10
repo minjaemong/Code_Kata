@@ -1,8 +1,7 @@
 def solution(n):
     answer = 1
-    while True:
-        if n % answer == 1:
+    for i in range(1, n):
+        if n % i == 1:
+            answer = i
             break
-        else:
-            answer += 1
     return answer
