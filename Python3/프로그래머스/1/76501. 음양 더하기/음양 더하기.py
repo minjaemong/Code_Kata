@@ -5,5 +5,5 @@ def solution(absolutes, signs):
             lst.append(int(a))
         else:
             lst.append(-int(a))
-        answer = sum(lst)
+    answer = sum(lst)
     return answer
