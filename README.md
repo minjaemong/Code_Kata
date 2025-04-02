@@ -1,5 +1,3 @@
 # Code_Kata
-`BaekjoonHub와 LeetHub를 사용해 매일 푼 코드 문제와 답을 기록하는 저장소입니다.`
-
-`This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).`
+`Programmers, LeetCode, HackerRank의 MySQL 및 Python 코딩 문제들을 BaekjoonHub, LeetHub를 사용해 푼 문제와 답을 기록하는 저장소입니다.`
 
